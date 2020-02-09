@@ -1,0 +1,14 @@
+{
+  "name": "UniqueEmailAddresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uniqueEmails.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simon Chan",
+  "license": "SC",
+  "dependencies": {
+    "mocha": "^7.0.1"
+  }
+}
